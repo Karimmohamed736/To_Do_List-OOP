@@ -1,0 +1,13 @@
+1- Connection by PDO
+
+2- select all in index
+
+3- add task in addToDo by OOP by class Request and Session
+
+4- In file App.php we call all calsess we need to call this file with all calsess
+
+5- Update in same way
+
+6- delete by onclick
+
+7- change status by select one task to catch it and update status 
