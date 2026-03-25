@@ -52,7 +52,7 @@ PHP (Core PHP)
 🔄 Status Change
 ![Status](assets/images/Status.png)
 
-▶️ How to Run
+## ▶️ How to Run
 Clone the repository:
 git clone https://github.com/your-username/taskify.git
 Move project to:
@@ -61,7 +61,7 @@ Import database via phpMyAdmin
 Run:
 http://localhost/To_Do_List-OOP/
 
-🎯 Project Goal
+## 🎯 Project Goal
 To practice building a complete task management system using core PHP, focusing on:
 
 CRUD operations
@@ -69,5 +69,5 @@ Secure database handling
 Clean backend structure
 Basic OOP concepts
 
-👨‍💻 Author
+## 👨‍💻 Author
 Karim Mohamed 🚀
